@@ -8258,7 +8258,7 @@ nora.MouseButton1Click:connect(function()
   end
  end
 end)
-
+--
 norl.Name = "norl"
 norl.Parent = ScrollingFrame
 norl.BackgroundColor3 = Color3.fromRGB(172, 172, 172)
